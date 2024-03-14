@@ -1,18 +1,53 @@
-## Getting Started
+# Kindergarten Classroom Management
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Introduction
+This project simulates a kindergarten classroom environment where students can enter the classroom, stand in line, take their seats, and participate in musical chairs. The project focuses on managing students in various states such as standing in line, sitting, and playing musical chairs, utilizing data structures like singly and circularly linked lists.
 
-## Folder Structure
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [Configuration](#configuration)
+- [Examples](#examples)
+- [Troubleshooting](#troubleshooting)
+- [Contributors](#contributors)
+- [License](#license)
 
-The workspace contains two folders by default, where:
+## Installation
+Ensure Java is installed on your system. Clone this repository and compile the Java files:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+```bash
+javac kindergarten/*.java
+```
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Usage
+To test various classroom management functionalities, run the `Driver.java` file:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+```bash
+java kindergarten.Driver
+```
 
-## Dependency Management
+Follow the prompts to select the method you'd like to test and input the required information as prompted.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Features
+- **Classroom Setup:** Initialize the classroom with students standing in line in alphabetical order.
+- **Seat Assignment:** Arrange students into their seats based on availability.
+- **Musical Chairs:** Simulate a game of musical chairs, managing students in a circular linked list.
+- **Student Management:** Add late students to the classroom or delete students leaving early, updating their status in line, seated, or playing musical chairs accordingly.
+
+## Dependencies
+- Java Development Kit (JDK)
+
+## Configuration
+No additional configuration is needed to run this project beyond the setup mentioned in [Installation](#installation).
+
+## Examples
+Example usage includes creating a classroom, seating students, inserting and playing musical chairs, and adding or removing students. Each action is selectable through the command-line interface provided by `Driver.java`.
+
+## Troubleshooting
+Ensure all files are in the `kindergarten` package directory and compiled correctly. If you encounter input or output issues, verify the paths and formats of your input files based on the expected formats outlined in the prompts.
+
+## Contributors
+- Haider Ali
+
