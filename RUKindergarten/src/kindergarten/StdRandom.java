@@ -59,8 +59,6 @@ import java.util.Random;
  *  <i>Computer Science: An Interdisciplinary Approach</i>
  *  by Robert Sedgewick and Kevin Wayne.
  *
- *  @author Robert Sedgewick
- *  @author Kevin Wayne
  */
 public final class StdRandom {
 

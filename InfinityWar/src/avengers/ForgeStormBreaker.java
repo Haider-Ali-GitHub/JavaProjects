@@ -39,7 +39,6 @@ package avengers;
  *    2. javac -d bin src/avengers/*.java
  *    3. java -cp bin avengers/ForgeStormBreaker forgestormbreaker.in forgestormbreaker.out
  *
- * @author Yashas Ravi
  * 
  */
 

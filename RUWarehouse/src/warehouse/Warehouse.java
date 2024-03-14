@@ -8,8 +8,7 @@ package warehouse;
  * Due to your limited space, you are unable to simply rehash to get more space. 
  * However, you can use your priority queue structure to delete less popular items 
  * and keep the space constant.
- * 
- * @author Ishaan Ivaturi
+
  */ 
 public class Warehouse {
     private Sector[] sectors;

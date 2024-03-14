@@ -51,7 +51,6 @@ package avengers;
  *     StdOut.setFile(outputfilename);
  *     StdOut.print(isConnected);
  * 
- * @author Yashas Ravi
  * Compiling and executing:
  *    1. Make sure you are in the ../InfinityWar directory
  *    2. javac -d bin src/avengers/*.java

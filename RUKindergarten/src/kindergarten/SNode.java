@@ -4,8 +4,6 @@ package kindergarten;
  * This class represents a student node, with a student 
  * object representing the student, and a next pointer 
  * for the student next in line.
- * 
- * @author Ethan Chou
  */
 public class SNode {
     private Student student; // the data part of the node

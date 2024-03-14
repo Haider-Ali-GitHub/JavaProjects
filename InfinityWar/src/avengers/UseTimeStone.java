@@ -55,7 +55,6 @@ package avengers;
  *    2. javac -d bin src/avengers/*.java
  *    3. java -cp bin avengers/UseTimeStone usetimestone.in usetimestone.out
  * 
- * @author Yashas Ravi
  * 
  */
 

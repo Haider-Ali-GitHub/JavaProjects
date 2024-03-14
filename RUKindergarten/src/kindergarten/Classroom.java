@@ -11,9 +11,6 @@ import java.util.List;
  * - a Student array parallel to seatingAvailability to show students filed into seats 
  * --- (more formally, seatingAvailability[i][j] also refers to the same seat in studentsSitting[i][j])
  * 
- * @author Ethan Chou
- * @author Kal Pandit
- * @author Maksims Kurjanovics Kravcenko
  * 
  */
 public class Classroom {

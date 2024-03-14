@@ -15,8 +15,6 @@ import java.util.Collections;
  * 
  * 
  * 
- * @author Ishaan Ivaturi
- * @author Prince Rawal
  */
 public class HuffmanCoding {
     private String fileName;

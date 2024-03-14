@@ -9,10 +9,7 @@ import java.io.IOException;
 
 public class Driver {
 
-    // TO STUDENTS: This number is delay in milliseconds between you clicking something and you being able to click
-    //              something else.  This is here because Java is so fast that if you click something, it'll register
-    //              you clicking it multiple times before you let go of the mouse button.  If you want to make this
-    //              responsiveness faster or slower, then decrement or increment this number.  Fidle around with it.
+   
     public static final int DELAY = 250;
 
     // These are constants, tbh they aren't rlly that useful and are kinda clutter

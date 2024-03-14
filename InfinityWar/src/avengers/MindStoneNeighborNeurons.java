@@ -43,7 +43,6 @@ package avengers;
  *    2. javac -d bin src/avengers/*.java
  *    3. java -cp bin avengers/MindStoneNeighborNeurons mindstoneneighborneurons.in mindstoneneighborneurons.out
  *
- * @author Yashas Ravi
  * 
  */
 
